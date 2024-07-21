@@ -33,9 +33,11 @@ Analysis:
 - How do sales differ by product category and type?
   # 3rd Project - "Bank Loan Report"
   📌 Objective:
+  
 The Bank Loan Report project delves into monitoring and evaluating a bank's lending activities, offering comprehensive insights into loan-related metrics. This Excel dashboard aims to support data-driven decision-making and strategic planning.
 
 📌 Key Performance Indicators:
+
 ▪️ Total Loan Applications
 ▪️ Total Funded Amount
 ▪️ Total Amount Received
@@ -43,6 +45,7 @@ The Bank Loan Report project delves into monitoring and evaluating a bank's lend
 ▪️ Average Debt-to-Income Ratio
 
 📌 Summary Dashboard:
+
 ✔️ Good Loan vs. Bad Loan
 ▪️ Good Loan Application Percentage
 ▪️ Good Loan Applications
@@ -54,6 +57,7 @@ The Bank Loan Report project delves into monitoring and evaluating a bank's lend
 ▪️ Bad Loan Total Received Amount
 
 📌 Overview Dashboard:
+
 ✔️ Charts
 ▪️ Monthly Trends by Issue Date (Line Chart)
 ▪️ Regional Analysis by State (Map Chart)
