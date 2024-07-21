@@ -47,6 +47,7 @@ The Bank Loan Report project delves into monitoring and evaluating a bank's lend
 📌 Summary Dashboard:
 
 ✔️ Good Loan vs. Bad Loan
+
 ▪️ Good Loan Application Percentage
 ▪️ Good Loan Applications
 ▪️ Good Loan Funded Amount
@@ -59,6 +60,7 @@ The Bank Loan Report project delves into monitoring and evaluating a bank's lend
 📌 Overview Dashboard:
 
 ✔️ Charts
+
 ▪️ Monthly Trends by Issue Date (Line Chart)
 ▪️ Regional Analysis by State (Map Chart)
 ▪️ Loan Term Analysis (Donut Chart)
